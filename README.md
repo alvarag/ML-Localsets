@@ -10,18 +10,18 @@ The original MEKA software is necessary: https://github.com/Waikato/meka
  **Á. Arnaiz-González, J-F. Díez Pastor, Juan J. Rodríguez, C. García Osorio.** _Local sets for multi-label instance selection._ Applied Soft Computing, _in press_. [doi: 10.1016/j.asoc.2018.04.016](https://doi.org/10.1016/j.asoc.2018.04.016)
 
 ```
-@article{ArnaizGonzalez2018,   
-  title = "Local sets for multi-label instance selection",   
-  journal = "Applied Soft Computing ",   
-  volume = "",   
-  number = "",   
-  pages = "",   
-  year = "2018",   
-  issn = "1568-4946",   
-  doi = "10.1016/j.asoc.2018.04.016",   
-  author = "\'{A}lvar Arnaiz-Gonz\'{a}lez and Jos\'{e} F. D\'{i}ez-Pastor and Juan J. Rodr\'{i}guez and C\'{e}sar Garc\'{i}a-Osorio"   
+@article{ArnaizGonzalez2018,
+  title = "Local sets for multi-label instance selection",
+  journal = "Applied Soft Computing ",
+  volume = "68",
+  pages = "651 - 666",
+  year = "2018",
+  issn = "1568-4946",
+  doi = "10.1016/j.asoc.2018.04.016",
+  author = "\'{A}lvar Arnaiz-Gonz\'{a}lez and Jos\'{e} F. D\'{i}ez-Pastor and Juan J. Rodr\'{i}guez and C\'{e}sar Garc\'{i}a-Osorio"
 }
 ```
+The paper is available online and accessible for free until July 11, 2018 through this link https://authors.elsevier.com/a/1X5Q15aecSZbPu
 
 ## Contributions
 The algorithms are based on LSSm and LSBo:
