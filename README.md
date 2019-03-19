@@ -7,7 +7,7 @@ The original MEKA software is necessary: https://github.com/Waikato/meka
 * HD-LSBo: Local set border selector for multi-label.
 
 ## Citation policy
- **Á. Arnaiz-González, J-F. Díez Pastor, Juan J. Rodríguez, C. García Osorio.** _Local sets for multi-label instance selection._ Applied Soft Computing, _in press_. [doi: 10.1016/j.asoc.2018.04.016](https://doi.org/10.1016/j.asoc.2018.04.016)
+ **Á. Arnaiz-González, J-F. Díez Pastor, Juan J. Rodríguez, C. García Osorio.** _Local sets for multi-label instance selection._ Applied Soft Computing, 68, 651-666. [doi: 10.1016/j.asoc.2018.04.016](https://doi.org/10.1016/j.asoc.2018.04.016)
 
 ```
 @article{ArnaizGonzalez2018,
